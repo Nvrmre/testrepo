@@ -1,4 +1,4 @@
 - desain
-- code
-- git
-- github
+- Figma
+- PHP
+- Phyton
