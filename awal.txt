@@ -1,0 +1,4 @@
+- desain
+- code
+- git
+- github
